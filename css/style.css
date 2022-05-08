@@ -624,19 +624,17 @@ h6 { font-size: 16px; }
 	box-shadow: 24px 0px 72px rgba(54,32,152,.3);
 }
 .dizme_tm_hero .skills.illustrator{
-	background-color: #390000;
 	top: 20px;
 	left: -30px;
 }
 .dizme_tm_hero .skills.photoshop{
-	background-color: #001631;
 	right: 70px;
 	top: 80px;
 }
 .dizme_tm_hero .skills.figma{
-	background-color: #fff;
-	bottom: 60px;
-	left: 140px;
+
+	bottom: -20px;
+	left: 200px;
 }
 .dizme_tm_hero .skills .svg{
 	position: absolute;
@@ -651,7 +649,7 @@ h6 { font-size: 16px; }
 }
 .dizme_tm_hero .skills.photoshop .svg{
 	color: #00a9ff;
-}
+}s
 .dizme_tm_down{
 	position: absolute;
 	left: 50%;
@@ -1999,7 +1997,7 @@ h6 { font-size: 16px; }
 	height: auto;
 	clear: both;
 	float: left;
-	padding-top: 185px;
+	padding-top: 100px;
 	margin-bottom: 160px;
 	position: relative;
 }
